@@ -1,0 +1,13 @@
+MARKETING STRATEGY SUGGESTIONS - Task 4
+Author: Suman D H
+
+1. Focus loyalty campaigns on the '18-25' age group, which shows the
+   highest average purchase amount.
+2. 'Bangalore' generates the highest total revenue - prioritize regional
+   promotions and faster delivery/support in this city.
+3. Target the identified 30 high-value customers (top 10% spenders)
+   with exclusive offers and early access to new products to improve retention.
+4. Consider re-engagement email campaigns for low-activity customer segments
+   to increase overall purchase frequency.
+5. Use rating data to identify dissatisfied customers (rating <= 2) for
+   proactive customer service outreach.
