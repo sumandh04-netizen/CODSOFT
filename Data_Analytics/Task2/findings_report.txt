@@ -1,0 +1,13 @@
+EDA FINDINGS REPORT - Task 2
+Author: Suman D H
+
+1. Dataset contains 300 records and 8 columns.
+2. Average purchase amount overall: 2613.90
+3. City with highest average purchase amount: Hyderabad (3051.51)
+4. Number of outliers detected in PurchaseAmount (IQR method): 0
+5. Correlation between Age and PurchaseAmount: -0.088 (weak/negligible linear relationship)
+6. Gender-wise average purchase amount:
+Gender
+Female    2695.545556
+Male      2528.926054
+7. Rating distribution is roughly uniform across 1-5 stars, suggesting no strong bias in customer satisfaction scores.
